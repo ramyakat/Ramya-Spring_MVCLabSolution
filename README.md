@@ -1,2 +1,2 @@
-# Swabhiman-Spring_MVCLabSolution
+# GauravBhushan-Spring_MVCLabSolution
 Spring MVC Lab session solutions
