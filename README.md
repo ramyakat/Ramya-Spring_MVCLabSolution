@@ -1,2 +1,2 @@
-# Harshita-Spring_MVCLabSolution
+# Ramya-Spring_MVCLabSolution
 Spring MVC Lab session solutions
